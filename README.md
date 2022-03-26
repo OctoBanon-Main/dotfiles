@@ -6,3 +6,7 @@
 </p>
 <br>
 ### #
+
+
+### Also see dotfiles for vim and etc by ZERO
+https://github.com/kostya-zero/zero-dotfiles
