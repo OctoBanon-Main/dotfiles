@@ -1,10 +1,12 @@
-<p align="center">
-  <h1 align="center">Gruvbox theme</h1>
-</p>
-<p align="center">
-  <h2 align="center">My configurations file for i3, dmenu, dunst and other</h2>
-</p>
-<br>
+<div align="center">
+
+  # Gruvbox theme
+</div>
+<div align="center">
+
+  ## My configurations file for i3, dmenu, dunst and other
+</div>
+
 
 ## Screenshots
 Will be later
