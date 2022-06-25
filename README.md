@@ -50,4 +50,4 @@ sudo pacman -S i3-gaps i3status-rust dunst dmenu picom
 ```
 
 ## Also see dotfiles for vim and etc by ZERO
-https://github.com/kostya-zero/zero-dotfiles
+https://gitlab.com/kostya-zero/dotfiles
