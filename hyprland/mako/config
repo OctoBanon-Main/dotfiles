@@ -1,0 +1,32 @@
+font=Ubuntu NF 11
+format=<b>%a</b>\n%s\n%b
+sort=-time
+layer=overlay
+anchor=top-center
+background-color=#E1D9E8
+text-color=#4E4B5C
+width=350
+height=110
+margin=5
+padding=0,5,10
+border-size=0
+border-color=#C9B6E2
+border-radius=10
+icons=0
+max-icon-size=64
+default-timeout=5000
+ignore-timeout=1
+
+[urgency=low]
+border-color=#C9B6E2
+
+[urgency=normal]
+# border-color=#C9B6E2
+
+[urgency=high]
+border-color=#bf616a
+default-timeout=0
+
+[category=mpd]
+default-timeout=2000
+group-by=category

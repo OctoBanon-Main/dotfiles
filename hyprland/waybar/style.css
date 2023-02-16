@@ -1,0 +1,73 @@
+* {
+    font-family: "Ubuntu NF", "Font Awesome 6 Free";
+    color: #4E4B5C;
+}
+
+window#waybar {
+    opacity: 1;
+    background-color: transparent;
+}
+
+#workspaces {
+    margin: 5px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+}
+
+#workspaces button:hover {
+    background: #C9B6E2;
+}
+
+#workspaces button.active {
+    background-color: #C9B6E2;
+}
+
+#clock {
+    margin: 5px 5px 5px 0px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#language {
+    margin: 5px 5px 5px 0px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#tray {
+    margin: 5px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#pulseaudio {
+    margin: 5px 5px 5px 0px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+#custom-powermenu {
+    margin: 5px 5px 5px 0px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    transition: 0.15s ease-in-out;
+}
+
+#window {
+    margin: 5px 0px 5px 5px;
+    background-color: #E1D9E8;
+    border-radius: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    transition: 0.15s ease-in-out;
+}
